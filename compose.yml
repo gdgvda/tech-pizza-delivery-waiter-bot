@@ -29,4 +29,4 @@ services:
 
 volumes:
   # Define the named volume for Redis persistence
-  redis-data:%
+  redis-data:
