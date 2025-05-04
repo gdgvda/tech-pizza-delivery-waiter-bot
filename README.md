@@ -106,8 +106,8 @@ Add the bot to your Telegram group chat. Participants can interact with the foll
 *   `/help`: Shows available commands and usage instructions.
 *   `/food <food choice>`: Places or updates your order for the **current day**. If you've already ordered today, this command replaces your previous choice.
     *   Example: `/food Pepperoni Pizza`
-    *   Example: `/food Salad` (Later the same day, replaces the Pizza order)
-*   `/summary`: The bot posts a list of the latest food orders placed by everyone for the **current day** in the group chat, sorted approximately by time.
+*   `/reset`: Removes your food order entry for the **current day**. Use this if you decide not to order after all.
+*   `/summary`: The bot posts a list of the latest food orders placed by everyone for the **current day** in the group chat, sorted approximately by time.  
 
 ## Customization
 
